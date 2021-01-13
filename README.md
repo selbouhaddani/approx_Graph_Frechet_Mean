@@ -33,4 +33,6 @@ Contents - sampleAdjSet: the sample adjacency set of graphs <br />
 -We suggest saving the data at this step <br />
 **Step 5:** Run plottingRegression.m <br />
 
-We elected to plot the values of the parameters in the regression file. One could also plot the values of the largest eigenvalues over time and draw similar conclusions.
+We elected to plot the values of the parameters in the regression file. One could also plot the values of the largest eigenvalues over time and draw similar conclusions. <br />
+
+**Note** Stochastic block models with 1 larger community has not yet been implemented.
