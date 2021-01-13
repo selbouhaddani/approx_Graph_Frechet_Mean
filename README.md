@@ -29,8 +29,8 @@ Contents - sampleAdjSet: the sample adjacency set of graphs <br />
 **Step 1:** Download the matlab file titled frechetRegression.m <br />
 **Step 2:** Download the data file regression_data.m <br />
 **Step 3:** Load the data into matlab <br />
-**Step 4:** Run frechetRegression.m
--We suggest saving the data at this step
-**Step 5:** Run plottingRegression.m
+**Step 4:** Run frechetRegression.m <br />
+-We suggest saving the data at this step <br />
+**Step 5:** Run plottingRegression.m <br />
 
 We elected to plot the values of the parameters in the regression file. One could also plot the values of the largest eigenvalues over time and draw similar conclusions.
