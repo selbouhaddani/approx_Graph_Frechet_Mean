@@ -15,9 +15,9 @@ The data provided is associated with the above paper and the code can be used to
 **Tutorial: Frechet Mean** <br />
 **Step 1:** Download the matlab file titled approxFrechetMean.m <br />
 **Step 2:** Download the data file(s) <br />
-**Step 3:** Load Barabasi_Albert_Data.mat into matlab (or any other raw data file) <br />
+**Step 3:** Load Small_World_Data.mat into matlab (or any other raw data file) <br />
 Contents - sampleAdjSet: the sample adjacency set of graphs <br />
-              m, m0: parameters used to generate the set from the Barabasi Albert ensemble <br />
+              K, beta: parameters used to generate the set from the Small World ensemble <br />
               n: the number of nodes <br />
               N: the number of graphs in the set <br />
 **Step 4:** Run approxFrechetMean.m  <br />
