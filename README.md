@@ -2,7 +2,7 @@
 
 The code provided approximates the Frechet mean of a set of graphs when considering the euclidean distance between the spectra of two graphs. The theory is outlined in **Approximate Frechet mean of sparse graphs with applications to linear regression** with an arxiv link to come.  <br />
 
-Here we provide both the raw data and the results for the Frechet mean as two separate files. With these files provided, one may write their own implementation fo the algorithms present here on the data and compare to our results. Our implementation of the algorithm is also provided for use.
+Here we provide both the raw data and the results for the Frechet mean as two separate files. One may write their own implementation of the algorithms presented in **Approximate Frechet mean of sparse graphs with applications to linear regression** and compare to our results. Our implementation of the algorithms are also provided.
 
 **Raw Data** <br />
 The raw data files are titled "BLANK_BLANK_Data.mat" with the exception of "exp_1_consistency.mat". Each of these .mat files contains the parameters used to generate the data and the sample set of adjcency matrices. In the case of "exp_1_consistency.mat", the ensemble used to generate the data was the stochastic block model. 
