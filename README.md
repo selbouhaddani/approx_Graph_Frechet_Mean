@@ -28,9 +28,9 @@ Contents - sampleAdjSet: the sample adjacency set of graphs <br />
         -This file will display the average eigenvalues from the dataset and the eigenvalues of the approximate Empirical Frechet Mean graph. Along with the theoretical eigenvalues of the approximate Empirical Frechet mean graph. <br />
 
 **Tutorial: Regression** <br />
-**Step 1:** Download the matlab file titled frechetRegression.m <br />
+**Step 1:** Download the matlab file titled approxEmpiricalFrechetRegression.m <br />
 **Step 2:** Download the data file regression_data.m <br />
 **Step 3:** Load the data into matlab <br />
-**Step 4:** Run frechetRegression.m <br />
+**Step 4:** Run approxEmpiricalFrechetRegression.m <br />
 -We suggest saving the data at this step <br />
 **Step 5:** Run plottingRegression.m <br />
