@@ -1,5 +1,4 @@
 %load the data set
-load("C:\Users\fergu\Google Drive\Daniel\regression\Rk_to_graph\Approximate_Frechet_Mean_Data\SBM_data.mat"); %Change this to the other sets of data provided or your own set.
 
 
 sampleEigSet = cell(N,1); %We only need to store the sample eigenvalues since this is the only data needed for the computations
